@@ -656,4 +656,5 @@ Pengembangan fitur lanjutan meliputi:
 
 Untuk proses forecasting yang membutuhkan model atau library khusus, pengolahan dapat dikembangkan sebagai layanan terpisah apabila kebutuhan teknisnya tidak sesuai dijalankan langsung di Next.js.
 
-**Tujuan utama struktur ini adalah menjaga kode frontend dan backend tetap terorganisasi, memisahkan tanggung jawab setiap bagian sistem, mempermudah integrasi database dan AI, serta memudahkan kolaborasi seluruh anggota tim dalam mengembangkan aplikasi Bakso Lintang.**
+**Tujuan utama struktur ini adalah menjaga kode frontend dan backend tetap terorganisasi, memisahkan tanggung jawab setiap bagian sistem, mempermudah integrasi database dan AI, serta memudahkan kolaborasi seluruh anggota tim dalam mengembangkan aplikasi Bakso Lintang.**#   l i n t a n g t e s t  
+ 
